@@ -1,0 +1,13 @@
+@font-face {
+  font-family: StarFont;
+  src: url("assets/fonts/Codystar-Regular.ttf");
+}
+@font-face {
+  font-family: Galactic;
+  src: url("assets/fonts/DISTGRG.ttf");
+}
+
+@font-face {
+    font-family: Techno;
+    src: url("assets/fonts/auto-techno\ italic.ttf");
+  }
